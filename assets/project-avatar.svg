@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
-  <title id="title">Height Estimation from an Image</title>
-  <desc id="description">A person silhouette measured beside a ruler inside a camera frame.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#102A43"/><stop offset="1" stop-color="#176B87"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7FE9DE"/><stop offset="1" stop-color="#36C2C0"/></linearGradient>
-  </defs>
-  <rect width="512" height="512" rx="104" fill="url(#background)"/>
-  <path d="M104 174v-38c0-18 14-32 32-32h38M370 104h38c18 0 32 14 32 32v38M408 338v38c0 18-14 32-32 32h-38M174 408h-38c-18 0-32-14-32-32v-38" fill="none" stroke="#D9F7F4" stroke-width="16" stroke-linecap="round"/>
-  <circle cx="225" cy="171" r="42" fill="url(#accent)"/><path d="M165 345c4-68 25-110 60-110s56 42 60 110" fill="url(#accent)"/>
-  <path d="M305 137v230M305 137h32M305 175h20M305 213h32M305 251h20M305 289h32M305 327h20M305 367h32" fill="none" stroke="#FFCB69" stroke-width="13" stroke-linecap="round"/>
-  <path d="M145 388h220" stroke="#D9F7F4" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#164e63"/><stop offset="1" stop-color="#101827"/></linearGradient><filter id="s" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#020617" flood-opacity=".34"/></filter></defs><rect width="512" height="512" rx="112" fill="url(#g)"/><circle cx="426" cy="88" r="110" fill="#67e8f9" opacity=".12"/><g filter="url(#s)"><rect x="157" y="91" width="59" height="330" rx="20" fill="#cffafe"/><path d="M176 129h21M176 177h21M176 225h21M176 273h21M176 321h21M176 369h21" stroke="#0891b2" stroke-width="11"/><path d="M307 138v236M267 178h80M267 334h80" stroke="#f8fafc" stroke-width="19" stroke-linecap="round"/><circle cx="307" cy="119" r="28" fill="#67e8f9"/><path d="M307 175v124" stroke="#67e8f9" stroke-width="45" stroke-linecap="round"/></g></svg>
